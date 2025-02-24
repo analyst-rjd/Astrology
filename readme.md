@@ -74,4 +74,6 @@ Contributions are welcome! If you have suggestions for improvements or new featu
    ```
 5. Open a pull request.
 
+## Live Demo
+<a href="https://astrology-flame.vercel.app/"> Astrology App </a>
 
