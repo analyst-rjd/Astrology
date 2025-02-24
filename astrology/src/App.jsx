@@ -49,9 +49,9 @@ function App() {
       hours: now.getHours(),
       minutes: now.getMinutes(),
       seconds: now.getSeconds(),
-      latitude: 17.38333,
-      longitude: 78.4666,
-      timezone: 5.5,
+      latitude: 14.21072,
+      longitude: 121.06973,
+      timezone: 8,
       config: {
         observation_point: "topocentric",
         ayanamsha: "lahiri",
